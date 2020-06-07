@@ -1,2 +1,3 @@
 # Data
-Collected from internet，and do some job for my work
+中国行政区域五级联动，省市县乡村级别
+数据包括csv格式，扁平json数据格式和树形json格式
